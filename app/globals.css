@@ -73,3 +73,12 @@
     margin: auto;
   }
 }
+@media screen and (max-width: 768px) {
+  .tob {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    margin: auto;
+  }
+}
